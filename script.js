@@ -1,4 +1,5 @@
 'use strict';
+//Author: Sana
 // put your own value below!
 const apiKey = "xK8CdTImrEHLFRftUhG6MlpPHiLeQEd7R9hnxCt1";
 const searchURL = "https://developer.nps.gov/api/v1/parks";
